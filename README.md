@@ -2,8 +2,8 @@
 
 ## Overview
 
-In this repository, we share course materials for two of our course sessions in the R3 Center for Innovation in Science Education (R3ISE, https://www.jhsph.edu/departments/w-harry-feinstone-department-of-molecular-microbiology-and-immunology/academics-and-degree-programs/R3-PhD-program/index.html) housed at the Johns Hopkins Bloomberg School of Public Health (BSPH): "Data Science & Visualization in the Biomedical and Life Sciences" and "Hypothesis Testing Framework and Caveats of p-values". (For more information about the program, visit the website above and for our philosophy, please access https://www.nature.com/articles/d41586-018-01853-1).
-We provide direct screenshots of the Course page as it is visible to students on the CoursePlus BSPH platform, along with uploaded videos from VoiceThread of the lecture material, and lastly, the references and online resources that we use for the respective sessions.
+In this repository, we share course materials for two of our course sessions in the R3 Center for Innovation in Science Education (R3ISE, https://www.jhsph.edu/departments/w-harry-feinstone-department-of-molecular-microbiology-and-immunology/academics-and-degree-programs/R3-PhD-program/index.html) housed at the Johns Hopkins Bloomberg School of Public Health (BSPH). The respective sessions are "Data Science & Visualization in the Biomedical and Life Sciences" and "Hypothesis Testing Framework and Caveats of p-values". (For more information about the program, visit the website above and for our philosophy, please access https://www.nature.com/articles/d41586-018-01853-1).
+We provide direct screenshots of the course page as it is visible to students on the CoursePlus BSPH platform, along with uploaded videos from VoiceThread of the lecture material, and lastly, the references and online resources that we use for the respective sessions.
 
 ## Session: Data Science & Visualization in the Biomedical and Life Sciences
 
