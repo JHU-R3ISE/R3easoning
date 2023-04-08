@@ -19,6 +19,11 @@ We provide direct screenshots of the course page as it is visible to students on
   * Briefly explain what the graph displays or what it should convey. What is the statistical test that was used for the analysis - would you say this was correctly chosen?
   * What would you change in the visualization?
   * Your primary post and reactions to at least 2 classmates' posts are due by [date]
+
+* Files
+ * R3easoning/Session - Data Science & Visualization in the Biomedical and Life Sciences.png --> screenshot of course page
+ * R3easoning/Video - Data Science & Visualization in the Biomedical and Life Sciences.mov --> video of course lecture
+ * R3easoning/Online Library Materials - Data Science & Visualization in the Biomedical and Life Sciences.docx --> references and resources
   
 ## Session: Hypothesis Testing Framework and Caveats of p-values
 
@@ -43,3 +48,8 @@ We provide direct screenshots of the course page as it is visible to students on
   * Did the authors use other metrics besides p-values to strengthen their conclusions?
   * What are your views on p-values and their role in hypothesis testing?
   * Your primary post and reactions to at least 2 classmates' posts are due by [date]
+
+* Files
+ * R3easoning/Session - Hypothesis Testing Framework and Caveats of p-values.png --> screenshot of course page
+ * R3easoning/Video - Hypothesis Testing Framework and Caveats of p-values.mov --> video of course lecture
+ * R3easoning/Online Library Materials - Hypothesis Testing Framework and Caveats of p-values.docx --> references and resources
