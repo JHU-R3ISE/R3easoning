@@ -36,7 +36,7 @@ We provide direct screenshots of the Course page as it is visible to students on
   * For now, don't focus so much on the type of test statistic you would apply. Let's suppose the p-value you generate is 0.04. What does this mean?
   * Formulate a statement about statistical significance with regard to your proposed hypotheses.
 
-* Discussion Thread - The hypothesis testing framework, statistical significance, and caveats of p-values: Part A
+* Discussion Thread - The hypothesis testing framework, statistical significance, and caveats of p-values: Part B
   * After going through the presentation, interview, and required reading for this session, reflect on hypothesis testing and p-values.
   * Please provide an example from a peer-reviewed article in your research field of interest that utilized p-values.
   * What was the conclusion reached by the authors based on the statistical significance analysis?
