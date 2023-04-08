@@ -21,9 +21,9 @@ We provide direct screenshots of the course page as it is visible to students on
   * Your primary post and reactions to at least 2 classmates' posts are due by [date]
 
 * Files
- * R3easoning/Session - Data Science & Visualization in the Biomedical and Life Sciences.png --> screenshot of course page
- * R3easoning/Video - Data Science & Visualization in the Biomedical and Life Sciences.mov --> video of course lecture
- * R3easoning/Online Library Materials - Data Science & Visualization in the Biomedical and Life Sciences.docx --> references and resources
+  * R3easoning/Session - Data Science & Visualization in the Biomedical and Life Sciences.png --> screenshot of course page
+  * R3easoning/Video - Data Science & Visualization in the Biomedical and Life Sciences.mov --> video of course lecture
+  * R3easoning/Online Library Materials - Data Science & Visualization in the Biomedical and Life Sciences.docx --> references and resources
   
 ## Session: Hypothesis Testing Framework and Caveats of p-values
 
@@ -50,6 +50,6 @@ We provide direct screenshots of the course page as it is visible to students on
   * Your primary post and reactions to at least 2 classmates' posts are due by [date]
 
 * Files
- * R3easoning/Session - Hypothesis Testing Framework and Caveats of p-values.png --> screenshot of course page
- * R3easoning/Video - Hypothesis Testing Framework and Caveats of p-values.mov --> video of course lecture
- * R3easoning/Online Library Materials - Hypothesis Testing Framework and Caveats of p-values.docx --> references and resources
+  * R3easoning/Session - Hypothesis Testing Framework and Caveats of p-values.png --> screenshot of course page
+  * R3easoning/Video - Hypothesis Testing Framework and Caveats of p-values.mov --> video of course lecture
+  * R3easoning/Online Library Materials - Hypothesis Testing Framework and Caveats of p-values.docx --> references and resources
